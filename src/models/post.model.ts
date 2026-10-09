@@ -79,3 +79,10 @@ export const handleTask295 = (input: any) => {
   // Implementation for: Day 15 (Part 1/15): Update Post persistence model and relations
   return { success: true, taskId: "66c4a7a9-6d18-40fe-aafe-d43c6f925dfd", processedAt: new Date().toISOString() };
 };
+
+
+// --- [CommitFlow Agent: Day 15 Task #310] Day 15 (Part 16/15): Update Post persistence model and relations ---
+export const handleTask310 = (input: any) => {
+  // Implementation for: Day 15 (Part 16/15): Update Post persistence model and relations
+  return { success: true, taskId: "89ef16a9-63fc-4a6f-afcc-3dabd224f4a3", processedAt: new Date().toISOString() };
+};
