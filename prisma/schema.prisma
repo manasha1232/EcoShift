@@ -1,0 +1,6 @@
+// Day 12 (Part 16/15): Update Post persistence model and relations
+// Project: EcoShift
+// Category: DATABASE_MODEL
+
+export const MODULE_NAME = 'schema';
+export const VERSION = '1.0.0';
