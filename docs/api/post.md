@@ -18,3 +18,7 @@ Document request/response contracts, header requirements and sample payloads.
   "verified": true
 }
 ```
+
+
+// --- [CommitFlow Agent: Day 13 Task #265] Day 13 (Part 13/15): Document Post API specifications and schemas ---
+// Implemented: Document request/response contracts, header requirements and sample payloads.
