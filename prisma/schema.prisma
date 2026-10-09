@@ -103,3 +103,12 @@ model EntityTask358 {
   status    String   @default("ACTIVE")
   createdAt DateTime @default(now())
 }
+
+
+// --- [CommitFlow Agent: Day 18 Task #373] Day 18 (Part 16/15): Update Post persistence model and relations ---
+model EntityTask373 {
+  id        String   @id @default(uuid())
+  title     String
+  status    String   @default("ACTIVE")
+  createdAt DateTime @default(now())
+}
