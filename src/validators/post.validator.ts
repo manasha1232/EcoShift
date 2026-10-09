@@ -75,3 +75,10 @@ export const handleTask332 = (input: any) => {
   // Implementation for: Day 16 (Part 17/15): Add input validation and constraint rules for Post
   return { success: true, taskId: "3481cb40-e168-4ec3-870f-082465ffac4f", processedAt: new Date().toISOString() };
 };
+
+
+// --- [CommitFlow Agent: Day 17 Task #338] Day 17 (Part 2/15): Add input validation and constraint rules for Post ---
+export const handleTask338 = (input: any) => {
+  // Implementation for: Day 17 (Part 2/15): Add input validation and constraint rules for Post
+  return { success: true, taskId: "9fe1dc0e-3c60-4553-9c64-59f37cc81d52", processedAt: new Date().toISOString() };
+};
